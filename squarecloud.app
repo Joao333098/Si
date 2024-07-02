@@ -1,5 +1,5 @@
 MAIN=index.js
-MEMORY=512
+MEMORY=100
 VERSION=recommended
 DISPLAY_NAME=Bot Vendas
 RESTART=TRUE
